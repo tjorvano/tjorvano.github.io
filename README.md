@@ -1,2 +1,2 @@
-# drdynscript.github.io
+# tjorvano.github.io
 Personal wiked webspace
